@@ -1,1 +1,6 @@
 # Hello-World
+
+hey, I am Kaushik.
+
+love to learn coding, but can't end up the coding lessons...
+joined here to learn about new resourses... And coding...
